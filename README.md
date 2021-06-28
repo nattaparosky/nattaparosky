@@ -1,4 +1,4 @@
- Hi, my name is Natália and I'm from Brazil 🇧🇷 I became a Front-end developer a couple months I've been love to learn
+ Hi, my name is Natália and I'm from Brazil 🇧🇷 I became a Front-end developer a couple months ago and I've been love to learn
  and discover more about this amazing World!
 
  I’m currently working (and learning) Angular, Typescript and Testing with Jasmine & Karma
